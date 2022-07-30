@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,700&display=swap');
+
+ .hum:hover{
+    background:#0ca05b ;
+    color: #f4f4f4;
+    transition: background 0.3s ease-in-out;
+
+}
+.hum i:hover{
+    color: #f4f4f4;
+ }   
+
+
+
+
+
+
+/* footer style  */
+
+#footer{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    background: #263238;
+    color: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+#footer h2{
+    font-size: 1.5rem;
+}
+
+.icons i{
+    margin: 3rem;
+}
